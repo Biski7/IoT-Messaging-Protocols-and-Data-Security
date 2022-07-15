@@ -1,0 +1,4 @@
+**/*.sh
+looper.sh
+run.sh
+.vscode/
